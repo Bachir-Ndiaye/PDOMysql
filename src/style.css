@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.friend-list{
+    text-align: center;
+    padding-top: 1rem;
+}
+.friend-list ul{
+    list-style-type: none;
+}
+.message{
+    text-align: center;
+    padding-top: 2rem;
+}
+form{
+    margin-top: 2rem;
+    background-color: aliceblue;
+    padding: 2rem;
+    text-align: center;
+}
+form p{
+    padding: 1rem;
+}
+.indication{
+    padding: 3rem 0rem;
+    text-align: center;
+}
+.indication p{
+    color: royalblue;
+}
